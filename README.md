@@ -10,3 +10,4 @@ Objectives:
 5) Basic error handling
 6) image uploading and storage with cloudinary
 7) Basic authentication with passport
+8) Geocoding with mapbox
